@@ -10,5 +10,5 @@ export const Container = styled.div`
     font-family: cursive;
     box-shadow: 0px 3px 4px rgba(5, 7, 166, 0.3);
     background-color: yellow;
-    font-size: 18px;
+    font-size: 20px;
  `   
