@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alimpiieva/goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/alimpiieva/goit-react-hw-04-feedback/static/js/main.07d3183d.js",
+    "index.html": "/alimpiieva/goit-react-hw-04-feedback/index.html",
+    "main.7acaea2f.css.map": "/alimpiieva/goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/alimpiieva/goit-react-hw-04-feedback/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
