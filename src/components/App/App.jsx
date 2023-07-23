@@ -29,7 +29,7 @@ const App = () => {
   const total = good + neutral + bad;
   const positivePercentage = total > 0 ? Math.round((good / total) * 100) : 0;
 
-  const options = ["good", "neutral", "bad"];
+  const options =Object.keys( {good, neutral, bad});
 
   return (
     <Container>
